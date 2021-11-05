@@ -1,0 +1,4 @@
+C:\Users\Sergey>curl https://api.github.com/users/Noxoomo/repos -o F:\resp.json
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 80022  100 80022    0     0  80022      0  0:00:01 --:--:--  0:00:01  142k
